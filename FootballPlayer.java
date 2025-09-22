@@ -191,18 +191,7 @@ public class Football{
         } else {
             System.out.println("Player wait to the bench");
         }
-        //TASK 10
-        System.out.println("\n=== Player Report ===");
-        System.out.println("Player: " + name);
-        System.out.println("Age: " + age + " (" + category + ")");
-        System.out.println("Height: " + height + " cm");
-        System.out.println("Weight: " + weight + " kg");
-        System.out.println("Jersey: " + jersey);
-        System.out.println("Position: " + position);
-        System.out.println("Attacker jersey: " + (isAttacker ? "Yes" : "No"));
-        System.out.println("Eligibility: " + (eligible ? "Eligible" : "Not Eligible"));
-        System.out.println("Lineup Decision: " + lineupDecision);
-        System.out.println("Final Decision: " + finalDecision);
+        
 
     
             
